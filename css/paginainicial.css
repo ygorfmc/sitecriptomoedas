@@ -3,3 +3,8 @@
 figure#img-capa img{
     width: 100%;
 }
+div.info{
+    background-color: var(--cordefundo3);
+    margin: 2em;
+    border-radius: 10px;
+}
