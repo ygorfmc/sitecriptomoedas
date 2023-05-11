@@ -4,7 +4,18 @@ figure#img-capa img{
     width: 100%;
 }
 div.info{
-    background-color: var(--cordefundo3);
+    background-color: var(--cordefundo5);
     margin: 2em;
     border-radius: 10px;
+}
+div.info > h2{
+    text-align: center;
+    background-color: var(--cordefundo4);
+    padding: 0.5em;
+    font-size: 1.8em;
+    border-radius: 10px 10px 0px 0px;
+}
+div.info > p{
+    line-height: 1.5em;
+    padding: 0.5em;
 }

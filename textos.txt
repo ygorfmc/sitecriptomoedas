@@ -1,0 +1,37 @@
+Mercado de Criptomoedas
+Tudo o que você precisa saber está aqui
+
+Home Moedas Notícias Fale Conosco
+
+
+O que são criptomoedas?
+Genericamente, uma criptomoeda é um tipo de dinheiro (como outras moedas com as quais convivemos cotidianamente) com a diferença de ser totalmente digital. Além disso, ela não emitida por nenhum governo (como é o caso do real ou do dólar, por exemplo).
+Mas isso é possível? Para explicar que sim, Fernando Ulrich, autor do livro Bitcoin: A moeda na era digital, faz uma analogia bem simples: “O que o e-mail fez com a informação, o Bitcoin fará com o dinheiro”. Antes da internet, as pessoas dependiam dos correios para enviar uma mensagem a quem estivesse em outro lugar. Era preciso um intermediário para entregá-la fisicamente – inimaginável para quem tem acesso a e-mail e outros serviços de mensageria.
+Embora o Bitcoin seja a moeda digital mais conhecida, o conceito de criptomoeda é anterior a ele. Segundo o site Bitcoin.org, mantido pela comunidade ligada ao Bitcoin, as criptomoedas foram descritas pela primeira vez em 1998 por Wei Dai, que sugeriu usar a criptografia para controlar a emissão e as transações realizadas com um novo tipo de dinheiro. Isso dispensaria a necessidade da existência de uma autoridade central, como acontece com as moedas convencionais.
+
+Para que servem?
+As criptomoedas podem ser usadas com as mesmas finalidades do dinheiro físico em si. As três principais funções são servir como meio de troca, facilitando as transações comerciais; reserva de valor, para a preservação do poder de compra no futuro; e ainda como unidade de conta, quando os produtos são precificados e o cálculo econômico é realizado em função dela.
+
+O que é mineração?
+Para entender o que é mineração, é preciso saber que as moedas digitais como o Bitcoin representam um código complexo que não pode ser alterado. As transações realizadas com elas são protegidas por criptografia.
+Como não há uma autoridade central que acompanhe essas transações, elas precisam ser registradas e validadas uma a uma por um grupo de pessoas, que usam seus computadores para gravá-las no chamado blockchain.
+O blockchain é um enorme registro de transações. Segundo Ulrich, trata-se de um banco de dados público onde consta o histórico de todas as operações realizadas com cada unidade de Bitcoin (outras moedas digitais se baseiam nessa mesma tecnologia). Cada nova transação (uma transferência entre duas pessoas, por exemplo) é verificada contra o blockchain, para assegurar que os mesmos Bitcoins não tenham sido previamente usados por outra pessoa.
+
+Site Criado por Andrey Pereira - Disciplina Desenvolvimento Web I
+
+Fonte: https://www.infomoney.com.br/guias/criptomoedas/
+
+
+Principais Moedas Existentes
+
+Bitcoin (BTC) é a mais conhecida das moedas digitais. Trata-se do primeiro sistema de pagamentos global totalmente descentralizado. Foi desenhado em 2008, em meio à crise financeira global iniciada no mercado americano de hipotecas, com o objetivo de substituir o dinheiro de papel, além de eliminar a necessidade da presença de bancos para intermediar operações financeiras.
+
+O Bitcoin Cash (BCH) é uma nova versão do Bitcoin original, criada mais recentemente em agosto de 2017. Ela foi desenvolvida numa tentativa de aperfeiçoar a primeira moeda, que conta com taxas consideradas elevadas e demanda um tempo grande de processamento de cada operação. A principal diferença é que o Bitcoin Cash possui um limite de tamanho de bloco de 8 MB, bem maior que o de 1 MB do Bitcoin original. Com isso, as confirmações das transações podem acontecer de maneira mais rápida e também com taxas mais baixas. Isso garante a ela uma escala ainda maior que a da sua predecessora.
+
+Existem algumas semelhanças, mas também diferenças, entre o Bitcoin e o Ethereum (ETH). A moeda digital original, na verdade, se chamava Ether. Em 2016, no entanto, um hacker encontrou uma falha no sistema e, a partir dela, conseguiu roubar o equivalente a US$ 50 milhões em Ether. Diante de dúvidas sobre o que seria do futuro da moeda, a comunidade que a mantinha optou por criar uma nova rede.
+
+Ao contrário do Bitcoin e outras moedas digitais, o Tether (USDT), lançado em 2014 por uma empresa de mesmo nome, é uma stablecoin, porque tem lastro em uma moeda física. A proposta dessa criptomoeda é de manter uma paridade com o dólar americano. Ou seja, para cada Tether emitido é preciso haver um dólar equivalente em caixa.
+
+O Ripple (XRP) é um protocolo de pagamento distribuído criado em 2011, e a moeda desse sistema é a XRP. Uma característica da plataforma Ripple é suportar na sua rede outros tokens representando moedas tradicionais e até outros bens. A ideia é que o sistema permita realizar pagamentos seguros e instantâneos.
+
+O Litecoin (LTC) foi criado em 2011 por um ex-funcionário do Google chamado Charlie Lee e tem muitas características semelhantes ao Bitcoin. A principal diferença está no processo de mineração, que busca reduzir o tempo necessário para confirmar transações feitas com a moeda. A intenção é de que seja mais fácil para qualquer pessoa participar do processo de criação de novos Litecoins.
