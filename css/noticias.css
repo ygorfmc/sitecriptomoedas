@@ -6,4 +6,45 @@ h1#titulo{
 div#container-principal{
     display: grid;
     grid-template-columns: 50% 50%;
+    margin: 1em;
+}
+div.video{
+    padding: 0.5em;
+    background-color: var(--cordefundo3);
+    text-align: center;
+    border-radius: 10px;
+}
+div.video > iframe{
+    width: 90%;
+    height: 100%;
+}
+div.noticia{
+    background-color: var(--cordefundo3);
+    border-radius: 10px;
+    padding-bottom: 0.5em;
+    margin: 0em 1em;
+}
+div.noticia > h2{
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+}
+div.noticia > P{
+    font-size: 1em;
+    line-height: 1.3em;
+    margin-bottom: 1.5em;
+    padding: 0.5em;
+}
+div.noticia > a{
+    color: var(--cordefontepadrao);
+    font-style: italic;
+}
+div#container-secundario{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    margin-bottom: 2em;
+}
+div.noticia > img{
+    width: 100%;
+    height: 40%;
+    border-radius: 10px 10px 0px 0px;
 }
