@@ -1,0 +1,9 @@
+/*CSS da página de Noticias*/ 
+h1#titulo{
+    text-align: center;
+    margin: 1em;
+}
+div#container-principal{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
