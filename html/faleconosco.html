@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="../imagens/favicon.png">
+    <link rel="stylesheet" href="../css/geral.css">
+    <link rel="stylesheet" href="../css/faleconosco.css">
+    <link rel="stylesheet" href="../css/header.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <title>Criptomoedas - Fale Conosco</title>
+</head>
+<body>
+    <header>
+        <h1>Mercado de Criptomoedas</h1>
+        <p>Tudo o que você precisa saber está aqui</p>
+    </header>
+    <nav>
+        <a href="paginainicial.html">Home</a>
+        <a href="moedas.html">Moedas</a>
+        <a href="noticiais.html">Notícias</a>
+        <a href="faleconosco.html" class="linkativo">Fale Conosco</a>
+    </nav>
+    <h1 id="titulo">Fale Conosco</h1>
+    <div id="formulario">
+        <form action="faleconosco.html" method="post">
+            <label for="nome">* Nome:</label>
+            <input type="text" name="nome" id="nome" placeholder="Digite seu nome completo" required>
+            <label for="email">* E-mail:</label>
+            <input type="email" name="email" id="email" placeholder="Digite seu e-mail" required>
+            <label for="assunto">* Assunto:</label>
+            <select name="assunto" id="assunto">
+                <option value="">Selecione uma opção:</option>
+                <option value="erro">Reportar um erro</option>
+                <option value="noticia">Publicar uma notícia</option>
+                <option value="consultoria">Contratar uma consultoria</option>
+            </select>
+            <label for="mensagem">Mensagem:</label>
+            <textarea name="mensagem" id="mensagem"></textarea>
+            <button type="submit" id="enviar">Enviar</button>
+            <button type="reset" id="cancelar">Cancelar</button>
+        </form>
+    </div>
+    <footer>
+        <p>Site criado por Ygor Carvalho - Disciplina Desenvolvimento Web I</p>
+        <p class="inline">Fonte:</p>
+        <a href="https://www.infomoney.com.br/guias/criptomoedas/" target="_blank">https://www.infomoney.com.br/guias/criptomoedas/</a>
+    </footer>
+</body>
+</html>

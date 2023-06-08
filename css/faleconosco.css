@@ -1,0 +1,43 @@
+/*CSS da página Fale Conosco*/
+h1#titulo{
+    text-align: center;
+    margin: 1em;
+}
+div#formulario{
+    margin: 2em 10%;
+}
+div#formulario label{
+    display: block;
+    font-weight: bold;
+    margin: 0.5em 0em;
+}
+div#formulario input,select,textarea{
+    border-radius: 5px;
+    min-height: 3em;
+    max-height: 10em;
+    min-width: 100%;
+    max-width: 100%;
+}
+div#formulario textarea{
+    min-height: 8em;
+    max-height: 12em;
+
+}
+div#formulario button{
+    padding: 0.8em 1.5em;
+    margin-top: 1em;
+    border-radius: 5px;
+    border: none;
+    color: var(--cordefontepadrao);
+    font-weight: bold;
+    font-size: 0.9em;
+}
+div#formulario button#enviar{
+    background-color: green;
+}
+div#formulario button#cancelar{
+    background-color: red;
+}
+div#formulario button:hover{
+    cursor: pointer;
+}
